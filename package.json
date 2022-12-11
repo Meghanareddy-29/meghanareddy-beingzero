@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Meghanareddy-29/meghanareddy-beingzero#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
